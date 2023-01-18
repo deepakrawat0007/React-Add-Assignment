@@ -1,0 +1,36 @@
+body{
+
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: cornflowerblue;
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
+.search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+.cards{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px gray;
+    margin-bottom: 10px;
+    background-color: skyblue;
+}
+input{
+    width: 30vw;
+    height: 5vh;
+    border-radius: 20px;
+    text-align: center;
+}
+button{
+    margin-left: 20px;
+    border-radius: 20px;
+    width: 8vw;
+    height: 5vh;
+}
